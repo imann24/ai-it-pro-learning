@@ -1,5 +1,5 @@
 #:schema node_modules/wrangler/config-schema.json
-name = "it_tech_pro_dev"
+name = "it-tech-pro"
 main = ".open-next/worker.js"
 compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat"]
