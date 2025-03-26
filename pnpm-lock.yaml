@@ -2544,7 +2544,7 @@ packages:
     dependencies:
       '@ast-grep/napi': 0.33.1
       '@dotenvx/dotenvx': 1.31.0
-      '@opennextjs/aws': '@pkg.pr.new/@opennextjs/aws@704'
+      '@opennextjs/aws': '@pkg.pr.new/@opennextjs/aws/704'
       enquirer: 2.4.1
       glob: 11.0.1
       ts-morph: 23.0.0
@@ -9184,7 +9184,7 @@ packages:
     resolution: {integrity: sha512-lY7CDW43ECgW9u1TcT3IoXHflywfVqDYze4waEz812jR/bZ8FHDsl7pFQoSZTz5N+2NqRXs8GBwnAwo3ZNxqhQ==}
     dev: false
 
-  '@pkg.pr.new/@opennextjs/aws@704':
+  '@pkg.pr.new/@opennextjs/aws/704':
     resolution: {tarball: https://pkg.pr.new/@opennextjs/aws@704}
     name: '@opennextjs/aws'
     version: 3.4.0
